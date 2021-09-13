@@ -1,0 +1,52 @@
+{
+  "Netflix":{
+    "Show that i like 1":{
+      "time":40,
+      "task":"lazy"
+    },
+    "Show that i like 2":{
+      "time":20,
+      "task":"lazy"
+    },
+    "Show that i like 3":{
+      "time":60,
+      "task":"lazy"
+    },
+    "Show that i like 4":{
+      "time":40,
+      "task":"lazy"
+    }
+  },
+  "Programming":{
+    "Task to program 1":{
+      "time":30,
+      "task":"intensive"
+    },
+    "Task to program 2":{
+      "time":10,
+      "task":"engaging"
+    },
+    "Task to program 3":{
+      "time":20,
+      "task":"lazy"
+    },
+    "Task to program 4":{
+      "time":60,
+      "task":"intensive"
+    },
+    "Task to program 5":{
+      "time":20,
+      "task":"engaging"
+    }
+  },
+  "Leaning new things": {
+    "New thing":{
+      "time":60,
+      "task":"intensive"
+    },
+    "Other thing":{
+      "time":90,
+      "task":"engaging"
+    }
+  }
+}

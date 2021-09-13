@@ -6,3 +6,6 @@ I am working on it, but in the meantime I try different solution to improve myse
 
 ## Curiosities
 - In some days I will attend to a concert, an Italian rapper named Ernia. In these minutes before 21:00 I will do a nice playlist to listen to.
+- I ended the job in ~75 min, 45 min less then predicted. It was not an hard task, but considering that is more then a month that i don't *python* and I had to refresh a little, I am pretty happy.
+- After listening to Ernia i opted the great podcast of Alessandro Barbero on the murder of famous politician Aldo Moro, from extreme left armed groups.
+- The result is quite useless, but as always it was fun to program.
